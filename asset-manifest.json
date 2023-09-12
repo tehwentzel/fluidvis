@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fluidvis/static/css/main.3ab758dc.css",
+    "main.js": "/fluidvis/static/js/main.9b52b37f.js",
+    "static/js/787.9ed461cb.chunk.js": "/fluidvis/static/js/787.9ed461cb.chunk.js",
+    "index.html": "/fluidvis/index.html",
+    "main.3ab758dc.css.map": "/fluidvis/static/css/main.3ab758dc.css.map",
+    "main.9b52b37f.js.map": "/fluidvis/static/js/main.9b52b37f.js.map",
+    "787.9ed461cb.chunk.js.map": "/fluidvis/static/js/787.9ed461cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ab758dc.css",
+    "static/js/main.9b52b37f.js"
+  ]
+}
